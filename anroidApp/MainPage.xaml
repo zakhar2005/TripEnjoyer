@@ -22,8 +22,8 @@
             </Frame>
             <Frame Grid.Row='1' Grid.Column="0"  BackgroundColor="White" CornerRadius="20" WidthRequest="150" HorizontalOptions="Center">
                 <StackLayout Orientation="Horizontal">
-                    <Image Source="Alarm" Aspect="AspectFit"></Image>
-                    <Label Text="Где ПОесть" TextColor="Black" FontSize="Small"></Label>
+                    <Image Source="Eat" Aspect="AspectFit"></Image>
+                    <Label Text="Где Поесть" TextColor="Black" FontSize="Small"></Label>
                 </StackLayout>
             </Frame>
             <Frame  Grid.Row='1' Grid.Column="1"  BackgroundColor="White" CornerRadius="20" WidthRequest="150" HorizontalOptions="Center">
