@@ -1,0 +1,24 @@
+@media screen and (min-width: 320px) and (max-width: 420px) {
+    .header {
+        background-color: #F3D844;  
+    }
+    .header-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 50px;
+        padding: 10px;
+    }
+    .logo > p {
+        font-family: 'Kablammo', cursive;
+        font-size: 18px;
+    }
+    .menu > svg{
+        width: 30px;
+        height: 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
