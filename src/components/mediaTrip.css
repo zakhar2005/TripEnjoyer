@@ -1,0 +1,22 @@
+@media screen and (min-width: 320px) and (max-width: 420px) {
+    .trip-link {
+        width: 100%;
+        text-decoration: none;
+        color: black;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 15px;
+        background-color: #D9D4D4;
+    }
+    .trip-link:hover {
+        border: 1px solid;
+    }
+    .trip-text {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+    }
+}
