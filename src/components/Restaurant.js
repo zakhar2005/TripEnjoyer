@@ -1,6 +1,6 @@
 import React from 'react';
 
-import eventImg from '../image/event.png';
+import eventImg from '../image/bar.png';
 import './mediaEvent.css';
 
 const Restaurant = () => {
@@ -11,8 +11,8 @@ const Restaurant = () => {
                 <img src={eventImg} />
             </div>
             <div className='event-title'>
-                <p className='event-name'>Ресторан</p>
-                <p className='event-text'>Street Voice Ganng</p>
+                <p className='event-name'>Бар Gazzler</p>
+                <p className='event-text'>Описание бара</p>
             </div>
         </div>
         <div className='event-icon'>

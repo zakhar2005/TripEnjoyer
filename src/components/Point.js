@@ -1,6 +1,6 @@
 import React from 'react';
 
-import eventImg from '../image/event.png';
+import eventImg from '../image/landmark.png';
 import './mediaEvent.css';
 
 const Point = () => {
@@ -11,8 +11,8 @@ const Point = () => {
                 <img src={eventImg} />
             </div>
             <div className='event-title'>
-                <p className='event-name'>Достопримечательность</p>
-                <p className='event-text'>Street Voice Ganng</p>
+                <p className='event-name'>Собор Святой Людовики</p>
+                <p className='event-text'>Готический храм</p>
             </div>
         </div>
         <div className='event-icon'>

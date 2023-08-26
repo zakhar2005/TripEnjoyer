@@ -10,7 +10,7 @@ const Recreational = () => {
         <main className="main">
             <div className="main-body">
                 <div className="main-container">
-                    <h1>Гостинницы</h1>
+                    <h1>Гостиницы</h1>
                     <Recreational1/>
                     <Recreational1/>
                     <Recreational1/>

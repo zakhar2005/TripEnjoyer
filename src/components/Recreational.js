@@ -1,6 +1,6 @@
 import React from 'react';
 
-import eventImg from '../image/event.png';
+import eventImg from '../image/hotel.png';
 import './mediaEvent.css';
 
 const Recreational = () => {
@@ -11,8 +11,8 @@ const Recreational = () => {
                 <img src={eventImg} />
             </div>
             <div className='event-title'>
-                <p className='event-name'>Гостинница</p>
-                <p className='event-text'>Street Voice Ganng</p>
+                <p className='event-name'>Зephyr Haven Hotel</p>
+                <p className='event-text'>Роскошный отель</p>
             </div>
         </div>
         <div className='event-icon'>
