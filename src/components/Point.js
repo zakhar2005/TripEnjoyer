@@ -8,7 +8,8 @@ const Point = () => {
     <div className='event-container'>
         <div className='event-inner'>
             <div className='event-img'>
-                <img src={eventImg} />
+                <img src={eventImg}
+                width={140} height={95} />
             </div>
             <div className='event-title'>
                 <p className='event-name'>Собор Святой Людовики</p>

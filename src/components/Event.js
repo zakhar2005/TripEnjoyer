@@ -8,7 +8,8 @@ const Event = () => {
     <div className='event-container'>
         <div className='event-inner'>
             <div className='event-img'>
-                <img src={eventImg} />
+                <img src={eventImg}
+                width={120} height={95} />
             </div>
             <div className='event-title'>
                 <p className='event-name'>Концерт</p>
