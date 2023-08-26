@@ -1,0 +1,32 @@
+@media screen and (min-width: 320px) and (max-width: 420px) {
+    .event-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #D9D4D4;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .event-inner {
+        display: flex;
+        align-items: center;
+    }
+    .event-img {
+        margin-right: 20px;
+    }
+    .event-title {
+        display: flex;
+        flex-direction: column; 
+    }
+    .event-name {
+        font-family: Roboto;
+        font-weight: 500;
+        font-size: 18px;
+    }
+    .event-text, .event-date {
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;   
+    }
+}
